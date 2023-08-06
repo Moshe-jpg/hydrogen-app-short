@@ -14,6 +14,7 @@ import {
 } from '@remix-run/react';
 import favicon from '../public/favicon.svg';
 import resetStyles from './styles/reset.css';
+// import resetStyles from './styles/app.css';
 import appStyles from './styles/app.css';
 import {Layout} from '~/components/Layout';
 
